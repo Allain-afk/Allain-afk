@@ -1,12 +1,18 @@
-<h1 align="center">👋 Hi there! I'm Allain Legaspi</h1>
+<div align="center">
+
+# 👋 Hi there! I'm Allain Legaspi
 
 <p align="center">
   <strong>Full-Stack Web Developer | UI/UX Designer | Python, React, Figma</strong>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Web+Developer+|+UI/UX+Designer;Python%2C+React%2C+Figma+|+Building+Amazing+Web+Experiences)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
-<strong>Full-Stack Web Developer | UI/UX Designer | Python, React, Figma</strong>
+<div align="center">
 
 ### 🎨 UI/UX & Design
 
@@ -22,7 +28,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
-### 🛠️ Backend & Web Frameworks
+### �️ Backend & Web Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
@@ -34,7 +40,11 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
 ![Fyne](https://img.shields.io/badge/-Fyne-05122A?style=flat)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
@@ -44,11 +54,20 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allain-afk&theme=tokyonight)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/allain-ralph-legaspi-255a05245/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allain-ralph-legaspi-255a05245/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:allainralphlegaspi@gmail.com)
 [![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://portfolio-evheo48v2-allain-afks-projects.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/allainlegaspi/)
+
+</div>
+
+
+
