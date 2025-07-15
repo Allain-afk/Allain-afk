@@ -4,7 +4,7 @@
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Web+Developer+|+Python%2C+Javascript/TypeScript+Automation+%26+Scripting%2C+Web+Development%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Web+Developer+|+Python%2C+Javascript/TypeScript+;Automation+%26+Scripting%2C+Web+Development%2C)](https://git.io/typing-svg)
 
 <!---
 
