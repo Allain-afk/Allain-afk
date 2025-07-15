@@ -1,83 +1,54 @@
-<div align="center">
-
-# 👋🏼 Hi there! I'm Allain Legaspi ([@allain.dev](https://github-readme-stats.vercel.app/api?username=Allain-afk&show_icons=true&theme=tokyonight) | [@Allain-afk](https://github.com/Allain-afk))
-
-<!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Web+Developer+|+Python%2C+Javascript/TypeScript+;Automation+%26+Scripting%2C+Web+Development%2C)](https://git.io/typing-svg)
-
-<!---
-
-I'm a freelancer with a background that spans diverse fields, including **Full-stack Web Development** (Current Focus), **Data Analytics**, **Social Media Management**, **Music Production**, and **Video Editing**.
-
---->
-
-</div>
-
----
+<h1 align="center">👋 Hi there! I'm Allain Legaspi</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,htmx,tailwind,flask,django,html,css,vue" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=arch,bash,neovim,vscode,nodejs,sqlite,postgres,supabase,heroku,docker,git,github" />
-  </a>
+  <strong>Full-Stack Web Developer | UI/UX Designer | Python, React, Figma</strong>
 </p>
 
-<div align="center">
-  
-| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
-| :---: | :---: | :---: | :---: |
-| Python, Go | Python (Django, Flask),<br>Go (Stdlib) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
-  
-</div>
+---
+
+<strong>Full-Stack Web Developer | UI/UX Designer | Python, React, Figma</strong>
+
+### 🎨 UI/UX & Design
+
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
+### 🧠 Frontend
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+
+### 🛠️ Backend & Web Frameworks
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=html5)
+
+**GUI:**
+
+![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
+![Fyne](https://img.shields.io/badge/-Fyne-05122A?style=flat)
 
 ---
 
-<div align="center">
-  <a href="https://github.com/mrjxtr?tab=repositories">
-    <img 
-      style="height: 200px; width:355px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&hide_rank=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/mrjxtr?tab=repositories">
-    <img
-      style="height: 200px; width:355px;"
-      height=200
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,dockerfile,javascript,lua"
-      />
-  </a>
-  <div style="height:10px;"></div>
-</div>
+### 📊 GitHub Stats
 
-<br>
+![Allain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allain-afk&show_icons=true&theme=tokyonight)
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allain-afk&layout=compact&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allain-ralph-legaspi-255a05245)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtAllain004r)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/allainlegaspi)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Allain8164)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:allainralphlegaspi@gmail.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allain-afk&theme=tokyonight)
 
-</div>
-
-<!---
 ---
-<!---
-## ⚒ **Recent Projects & Progress**
-<!---
-<div align="center" style="max-width: 800px;">
-<!---
-| **🤖 [Mr-Myter (Automated Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter)** | **📊 [Data Extractor with LLM Parsing](https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project)** | **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model)** | **📊 [Data Cleaning, Processing, Analysis, and Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project)** | 🌱 **Currently Learning** | 👨🏼‍💻 **Currently Working On** |
-| --- | --- | --- | --- | --- | --- |
-| <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset. </Details> | <Details><summary> 👀 show summary </summary> Developed Python scripts using `Pandas` for cleaning and analyzing complex sales data, improving data accuracy by up to 100%. Additionally, I created dynamic, interactive dashboards using `Tableau`, `Matplotlib`, and `Seaborn` to effectively communicate data-driven insights. </Details> | <details> <summary>👀 view topics </summary> - 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R. </details> | <details> <summary>👀 view ongoing projects </summary> - 🤖 **[Mr-Myter (Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter):** Creating a bot that will automatically upload YouTube Videos in bulk. <br/> - 🧠  **[LLM Report Generator](https://github.com/mrjxtr/LLM_Report_Generator):** Creating a digital product powered by LLMs to generate comprehensive reports based on input data </details> | 
-<!---
-</div>
-<!---
----
-<!---
 
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/allain-ralph-legaspi-255a05245/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:allainralphlegaspi@gmail.com)
+[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://portfolio-evheo48v2-allain-afks-projects.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/allainlegaspi/)
