@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hi there! I'm Allain Legaspi ([@mrjxtr](https://mrjxtr.dev/) | [@mrjx-dev](https://github.com/Allain-afkv))
+# 👋🏼 Hi there! I'm Allain Legaspi ([@allain.dev](https://github-readme-stats.vercel.app/api?username=Allain-afk&show_icons=true&theme=tokyonight) | [@Allain-afk](https://github.com/Allain-afk))
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
