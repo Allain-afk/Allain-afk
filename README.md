@@ -29,11 +29,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=html5)
 
-### ⚙️ Others
-
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![Go Stdlib](https://img.shields.io/badge/-Go%20Stdlib-05122A?style=flat&logo=go)
-
 **GUI:**
 
 ![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
