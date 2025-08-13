@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allain-ralph-legaspi-255a05245/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:allainralphlegaspi@gmail.com)
-[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)]([https://portfolio-evheo48v2-allain-afks-projects.vercel.app/](https://allain-afk-dev.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://allain-afk-dev.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/allainlegaspi/)
 
 </div>
