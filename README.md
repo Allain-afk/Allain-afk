@@ -11,8 +11,6 @@
 
 I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on building clean, fast, and accessible web apps. I love Python, React, and great product design. Currently exploring TypeScript, Next.js, and improving UX workflows in Figma.
 
-- I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on building clean, fast, and accessible web apps. I love Python, React, and great product design. Currently exploring TypeScript, Next.js, and improving UX workflows in Figma.
-
 - 🧭 Favorite framework: <b>Flutter</b> — Flutter + Dart help me build mobile‑first apps with ease.
 - 🚀 I like shipping useful tools and delightful interfaces.
 - 📚 Always learning—currently deepening <i>TypeScript</i> and <i>Django REST</i>.
