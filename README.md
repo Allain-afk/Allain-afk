@@ -52,7 +52,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allain-afk&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allain-afk&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Allain-afk&theme=tokyonight)
 
 </div>
 
