@@ -11,6 +11,9 @@
 
 I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on building clean, fast, and accessible web apps. I love Python, React, and great product design. Currently exploring TypeScript, Next.js, and improving UX workflows in Figma.
 
+- I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on building clean, fast, and accessible web apps. I love Python, React, and great product design. Currently exploring TypeScript, Next.js, and improving UX workflows in Figma.
+
+- 🧭 Favorite framework: <b>Flutter</b> — Flutter + Dart help me build mobile‑first apps with ease.
 - 🚀 I like shipping useful tools and delightful interfaces.
 - 📚 Always learning—currently deepening <i>TypeScript</i> and <i>Django REST</i>.
 - 💬 Open to collaboration and code reviews.
@@ -49,10 +52,12 @@ I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ###### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
