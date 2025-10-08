@@ -15,7 +15,7 @@ I’m a <b>Full‑Stack Web Developer</b> and <b>UI/UX enthusiast</b> focused on
 - 📚 Always learning—currently deepening <i>TypeScript</i> and <i>Django REST</i>.
 - 💬 Open to collaboration and code reviews.
 - 🎮 Outside tech: games, music, and the occasional design jam.
-- 📫 Reach me: <a href="mailto:allainralphlegaspi@gmail.com">allainralphlegaspi@gmail.com</a>
+- 📫 Reach me: <a href="mailto:alegaspi_ccs@uspf.edu.ph">alegaspi_ccs@uspf.edu.ph</a>
 
 <br/>
 
